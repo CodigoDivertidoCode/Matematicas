@@ -1,0 +1,48 @@
+
+
+Lógica y Conjuntos
+La lógica es un método de razonamiento que no acepta conclusiones erróneas.
+Esto se puede lograr definiendo en forma estricta cada uno de los conceptos. Todo debe definirse de tal forma que no dé lugar a dudas o impresiones en la veracidad de su significado. Nada puede darse por supuesto, y las definiciones de diccionario no son normalmente suficientes. Por ejemplo, en el lenguaje ordinario, un enunciado u oración se puede definir como “una palabra o grupo de palabras que declara, pregunta, ordena, solicita o exclama algo; unidad convencional del habla o escritura coherente, que normalmente contiene un sujeto y un predicado, que empieza con letra mayúscula y termina con un punto”.
+Sin embargo, en lógica simbólica una oración tiene un significado mucho más específico y se llama proposición.
+
+
+Definición 1.1 (Proposición)
+Una proposición es una unidad semántica que, o solo es verdadera o solo es falsa.
+Los elementos fundamentales de la lógica son las proposiciones. Por ello, las oraciones que no son falsas ni verdaderas, las que son falsas y verdaderas al mismo tiempo, o las que demuestran algún tipo de impresión ( carecen de sentido ) , no son objeto de estudio de la lógica.
+
+Ejemplo 1.1 Oraciones que son proposiciones.
+5 es un número primo.
+− 17 + 38 = 21 .
+Todos los números enteros son positivos.
+Vicente Rocafuerte fue Presidente del Ecuador.
+Las oraciones anteriormente expuestas son proposiciones, ya que son verdaderas o falsas. Todas ellas pueden ser calificadas por el lector con precisión y sin ambigüedades o subjetivismo.
+Usualmente, las primeras letras del alfabeto español en minúscula se usan para representar proposiciones.
+
+
+Ejemplo 1.2 Representación simbólica de proposiciones.
+5 es un número primo puede ser representada por la letra a, de la forma;
+a: 5 es un número primo.
+www.FreeLibros.org
+pág. 9
+
+Ejemplo 1.3 Oraciones que no son proposiciones.
+Lava el auto, por favor.
+Hola, ¿cómo estás?
+¡Apúrate!
+La conceptualización cambia lo absurdo en azul.
+x + 5 = 9.
+¡Mañana se acabará el mundo!
+Las primeras cuatro oraciones no son proposiciones porque no se puede establecer su valor de verdad. Generalmente las oraciones imperativas, exclamativas e interrogativas no son proposiciones.
+El quinto enunciado no es una proposición, ya que el valor de
+y por lo tanto no se puede establecer su valor de verdad.
+x no es preciso
+La sexta oración no es una proposición porque su valor de verdad no se puede determinar.
+
+Definición 1.2 (Valor de verdad)
+El valor de verdad de una proposición es la cualidad de veracidad que describe adecuadamente la proposición. Este puede ser verdadero o falso. Usualmente al valor verdadero se lo asocia con: 1,V,T, True ; mientras que el valor falso se lo asocia con: 0,F, False. Se podría utilizar cualquiera de ellas, pero la convención a seguir en el texto será el uso de 0 y 1, tomando como referencia el sistema de numeración binario. En el ejemplo 1.1 podemos observar que el valor de verdad de la segunda proposición es VERDADERO, mientras que el valor de verdad de la tercera proposición es FALSO. Verdad y falsedad pueden considerarse simplemente como los valores lógicos de la unidad semántica descriptiva con sentido completo. Ese valor es lo que más nos interesa sobre una proposición.
+
+Definición 1.3 (Tabla de verdad)
+Una tabla de verdad es una representación de los posibles valores de verdad que podría tomar una proposición.
+Las tablas de verdad sirven para mostrar los valores, las relaciones y los resultados posibles al realizar operaciones lógicas.
+www.FreeLibros.
+
