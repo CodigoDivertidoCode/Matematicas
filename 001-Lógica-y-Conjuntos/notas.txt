@@ -1,22 +1,20 @@
 
 
 Lógica y Conjuntos
-La lógica es un método de razonamiento que no acepta conclusiones erróneas.
-Esto se puede lograr definiendo en forma estricta cada uno de los conceptos. Todo debe definirse de tal forma que no dé lugar a dudas o impresiones en la veracidad de su significado. Nada puede darse por supuesto, y las definiciones de diccionario no son normalmente suficientes. Por ejemplo, en el lenguaje ordinario, un enunciado u oración se puede definir como “una palabra o grupo de palabras que declara, pregunta, ordena, solicita o exclama algo; unidad convencional del habla o escritura coherente, que normalmente contiene un sujeto y un predicado, que empieza con letra mayúscula y termina con un punto”.
+La lógica es un método de razonamiento que no acepta conclusiones erróneas. Esto se puede lograr definiendo en forma estricta cada uno de los conceptos. Todo debe definirse de tal forma que no dé lugar a dudas o impresiones en la veracidad de su significado. Nada puede darse por supuesto, y las definiciones de diccionario no son normalmente suficientes. Por ejemplo, en el lenguaje ordinario, un enunciado u oración se puede definir como “una palabra o grupo de palabras que declara, pregunta, ordena, solicita o exclama algo; unidad convencional del habla o escritura coherente, que normalmente contiene un sujeto y un predicado, que empieza con letra mayúscula y termina con un punto”.
 Sin embargo, en lógica simbólica una oración tiene un significado mucho más específico y se llama proposición.
 
 
 Definición 1.1 (Proposición)
-Una proposición es una unidad semántica que, o solo es verdadera o solo es falsa.
-Los elementos fundamentales de la lógica son las proposiciones. Por ello, las oraciones que no son falsas ni verdaderas, las que son falsas y verdaderas al mismo tiempo, o las que demuestran algún tipo de impresión ( carecen de sentido ) , no son objeto de estudio de la lógica.
+
+Una proposición es una unidad semántica que, o solo es verdadera o solo es falsa. Los elementos fundamentales de la lógica son las proposiciones. Por ello, las oraciones que no son falsas ni verdaderas, las que son falsas y verdaderas al mismo tiempo, o las que demuestran algún tipo de impresión ( carecen de sentido ) , no son objeto de estudio de la lógica.
 
 Ejemplo 1.1 Oraciones que son proposiciones.
 5 es un número primo.
 − 17 + 38 = 21 .
 Todos los números enteros son positivos.
 Vicente Rocafuerte fue Presidente del Ecuador.
-Las oraciones anteriormente expuestas son proposiciones, ya que son verdaderas o falsas. Todas ellas pueden ser calificadas por el lector con precisión y sin ambigüedades o subjetivismo.
-Usualmente, las primeras letras del alfabeto español en minúscula se usan para representar proposiciones.
+Las oraciones anteriormente expuestas son proposiciones, ya que son verdaderas o falsas. Todas ellas pueden ser calificadas por el lector con precisión y sin ambigüedades o subjetivismo. Usualmente, las primeras letras del alfabeto español en minúscula se usan para representar proposiciones.
 
 
 Ejemplo 1.2 Representación simbólica de proposiciones.
