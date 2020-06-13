@@ -3,7 +3,7 @@ table {
     border-spacing: 0;
     width: 100%;
     display: table;
-    border: 1px solid #ccc;
+    border: 1px solid black;
 }
 table tr, table tr {
     border-bottom: 1px solid #ddd
@@ -14,12 +14,9 @@ table tr:nth-child(odd) {
 table tr:nth-child(even) {
     background-color: #f1f1f1
 }
-/*.w3-hoverable tbody tr:hover, .w3-ul.w3-hoverable li:hover {
-    background-color: #ccc
-}*/
-
 table tr th, table tr td {
-    text-align: center
+    text-align: center;
+    border: 1px solid black;
 }
 table td, table th, table td, table th {
     padding: 8px 8px;
@@ -27,10 +24,10 @@ table td, table th, table td, table th {
     text-align: left;
     vertical-align: top
 }
-table th:first-child, table td:first-child, table th:first-child, .w3-table-all td:first-child {
+table th:first-child, table td:first-child, table th:first-child, table td:first-child {
     padding-left: 16px
 }
-.w3-container:after, .w3-container:before, .w3-panel:after, .w3-panel:before, .w3-row:after, .w3-row:before, .w3-row-padding:after, .w3-row-padding:before, .w3-cell-row:before, .w3-cell-row:after, .w3-clear:after, .w3-clear:before, .w3-bar:before, .w3-bar:after {
+div:after, div:before {
     content: "";
     display: table;
     clear: both
