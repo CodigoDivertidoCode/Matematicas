@@ -33,5 +33,12 @@ div:after, div:before {
     clear: both
 }
 div {
-    padding: 0.01em 16px
+    padding: 10px;
+    /*padding: 0.01em 16px;*/
+    /*margin-top: 40px;*/
+    margin-bottom: 40px;
+}
+.titulo {
+    padding: 10px;
+    margin-bottom: 0px;
 }
