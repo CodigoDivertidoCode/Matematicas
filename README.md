@@ -10,7 +10,5 @@ Este repositorio esta basado en el estudios del libro : Fundamentos de Matemáti
 Descarga el libro aquí  
 https://es.pdfdrive.com/fundamentos-de-matemáticas-para-bachillerato-e34205002.html 
 
-Enlace web para visualisaqr los trabajos 
-https://codefuncode.github.io/Matematicas/
 
 
